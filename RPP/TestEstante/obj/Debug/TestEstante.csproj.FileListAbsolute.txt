@@ -1,0 +1,11 @@
+C:\Users\Vanina\Desktop\tps\LP2\VaninaQuezada.2C\Quezada.Vanina.2C\TestEstante\bin\Debug\TestEstante.exe.config
+C:\Users\Vanina\Desktop\tps\LP2\VaninaQuezada.2C\Quezada.Vanina.2C\TestEstante\bin\Debug\TestEstante.exe
+C:\Users\Vanina\Desktop\tps\LP2\VaninaQuezada.2C\Quezada.Vanina.2C\TestEstante\bin\Debug\TestEstante.pdb
+C:\Users\Vanina\Desktop\tps\LP2\VaninaQuezada.2C\Quezada.Vanina.2C\TestEstante\bin\Debug\Entidades.pdb
+C:\Users\Vanina\Desktop\tps\LP2\VaninaQuezada.2C\Quezada.Vanina.2C\TestEstante\obj\Debug\TestEstante.csprojResolveAssemblyReference.cache
+C:\Users\Vanina\Desktop\tps\LP2\VaninaQuezada.2C\Quezada.Vanina.2C\TestEstante\obj\Debug\TestEstante.exe
+C:\Users\Vanina\Desktop\tps\LP2\VaninaQuezada.2C\Quezada.Vanina.2C\TestEstante\obj\Debug\TestEstante.pdb
+C:\Users\Vanina\Desktop\tps\LP2\VaninaQuezada.2C\Quezada.Vanina.2C\TestEstante\bin\Debug\Entidades.dll
+C:\Users\Vanina\Desktop\tps\LP2\VaninaQuezada.2C\RPP\TestEstante\bin\Debug\TestEstante.exe.config
+C:\Users\Vanina\Desktop\tps\LP2\VaninaQuezada.2C\RPP\TestEstante\obj\Debug\TestEstante.exe
+C:\Users\Vanina\Desktop\tps\LP2\VaninaQuezada.2C\RPP\TestEstante\obj\Debug\TestEstante.pdb

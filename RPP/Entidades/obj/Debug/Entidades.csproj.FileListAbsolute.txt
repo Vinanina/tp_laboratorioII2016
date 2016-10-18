@@ -1,0 +1,4 @@
+C:\Users\Vanina\Desktop\tps\LP2\VaninaQuezada.2C\Quezada.Vanina.2C\Entidades\bin\Debug\Entidades.dll
+C:\Users\Vanina\Desktop\tps\LP2\VaninaQuezada.2C\Quezada.Vanina.2C\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Vanina\Desktop\tps\LP2\VaninaQuezada.2C\Quezada.Vanina.2C\Entidades\obj\Debug\Entidades.dll
+C:\Users\Vanina\Desktop\tps\LP2\VaninaQuezada.2C\Quezada.Vanina.2C\Entidades\obj\Debug\Entidades.pdb
