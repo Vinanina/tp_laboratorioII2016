@@ -1,0 +1,7 @@
+C:\Users\Vanina\Desktop\Quezada.Vanina.2C.TP3\Quezada.Vanina.2C.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Vanina\Desktop\Quezada.Vanina.2C.TP3\Quezada.Vanina.2C.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Vanina\Desktop\Quezada.Vanina.2C.TP3\Quezada.Vanina.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Vanina\Desktop\Quezada.Vanina.2C.TP3\Quezada.Vanina.2C.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Vanina\Desktop\Quezada.Vanina.2C.TP3\Quezada.Vanina.2C.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Vanina\Desktop\Quezada.Vanina.2C.TP3\Quezada.Vanina.2C.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Vanina\Desktop\Quezada.Vanina.2C.TP3\Quezada.Vanina.2C.TP3\Archivos\obj\Debug\Archivos.pdb

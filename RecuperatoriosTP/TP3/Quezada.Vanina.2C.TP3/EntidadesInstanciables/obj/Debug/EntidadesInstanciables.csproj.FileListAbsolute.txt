@@ -1,0 +1,11 @@
+C:\Users\Vanina\Desktop\Quezada.Vanina.2C.TP3\Quezada.Vanina.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csprojResolveAssemblyReference.cache
+C:\Users\Vanina\Desktop\Quezada.Vanina.2C.TP3\Quezada.Vanina.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.dll
+C:\Users\Vanina\Desktop\Quezada.Vanina.2C.TP3\Quezada.Vanina.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\Vanina\Desktop\Quezada.Vanina.2C.TP3\Quezada.Vanina.2C.TP3\EntidadesInstanciables\bin\Debug\Archivos.dll
+C:\Users\Vanina\Desktop\Quezada.Vanina.2C.TP3\Quezada.Vanina.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Vanina\Desktop\Quezada.Vanina.2C.TP3\Quezada.Vanina.2C.TP3\EntidadesInstanciables\bin\Debug\Excepciones.dll
+C:\Users\Vanina\Desktop\Quezada.Vanina.2C.TP3\Quezada.Vanina.2C.TP3\EntidadesInstanciables\bin\Debug\Archivos.pdb
+C:\Users\Vanina\Desktop\Quezada.Vanina.2C.TP3\Quezada.Vanina.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Vanina\Desktop\Quezada.Vanina.2C.TP3\Quezada.Vanina.2C.TP3\EntidadesInstanciables\bin\Debug\Excepciones.pdb
+C:\Users\Vanina\Desktop\Quezada.Vanina.2C.TP3\Quezada.Vanina.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.dll
+C:\Users\Vanina\Desktop\Quezada.Vanina.2C.TP3\Quezada.Vanina.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb
